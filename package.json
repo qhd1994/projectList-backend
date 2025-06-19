@@ -1,0 +1,26 @@
+{
+  "name": "projectlist-backend",
+  "version": "1.0.0",
+  "description": "Project List Backend API Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qhd1994/projectList-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qhd1994/projectList-backend/issues"
+  },
+  "homepage": "https://github.com/qhd1994/projectList-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
